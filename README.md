@@ -4,9 +4,15 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak" width="62%" />
+  </a>
+  <a href="https://github.com/nandamelooo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandamelooo&theme=dracula" width="30%" />
   </a>
 </p>
+
+
+
 
 ## Markup Languages
 
